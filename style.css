@@ -46,6 +46,7 @@ p {
     background-color: #33475b;
     border: 3px solid white;
     color: #23f76f;
+    height: 100px;
 }
 
 #show-password p {
