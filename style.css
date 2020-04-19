@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+body {
+    background-color: #5ac076;
+}
+
+header {
+    height: 120px;
+    background-color: #db1414;
+    color: white;
+    border-bottom: 2px solid black;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #0d2170;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 12px;
+}
+
+.description {
+    background-color: #e9cd5f;
+}
+
+p {
+    padding: 16px;
+    font-size: 20px;
+}
+
+#show-password {
+    background-color: #33475b;
+    border: 3px solid white;
+    color: #23f76f;
+}
+
+#show-password p {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    padding: 30px;
+}
